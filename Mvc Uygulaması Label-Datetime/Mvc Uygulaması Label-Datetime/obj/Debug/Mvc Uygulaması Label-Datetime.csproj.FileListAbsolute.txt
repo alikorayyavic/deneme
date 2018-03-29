@@ -1,0 +1,9 @@
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\bin\Mvc Uygulaması Label-Datetime.dll.config
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\bin\Mvc Uygulaması Label-Datetime.dll
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\bin\Mvc Uygulaması Label-Datetime.pdb
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\obj\Debug\Mvc Uygulaması Label-Datetime.csprojResolveAssemblyReference.cache
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\obj\Debug\Mvc Uygulaması Label-Datetime.csproj.CoreCompileInputs.cache
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\obj\Debug\Mvc Uygulaması Label-Datetime.dll
+c:\users\aliyavic\source\repos\Mvc Uygulaması Label-Datetime\Mvc Uygulaması Label-Datetime\obj\Debug\Mvc Uygulaması Label-Datetime.pdb
